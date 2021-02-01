@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CardPackOpen/static/css/main.e08e4210.chunk.css",
+    "main.js": "/CardPackOpen/static/js/main.f5c16a71.chunk.js",
+    "main.js.map": "/CardPackOpen/static/js/main.f5c16a71.chunk.js.map",
+    "runtime-main.js": "/CardPackOpen/static/js/runtime-main.faf68c95.js",
+    "runtime-main.js.map": "/CardPackOpen/static/js/runtime-main.faf68c95.js.map",
+    "static/js/2.ae1d3a8f.chunk.js": "/CardPackOpen/static/js/2.ae1d3a8f.chunk.js",
+    "static/js/2.ae1d3a8f.chunk.js.map": "/CardPackOpen/static/js/2.ae1d3a8f.chunk.js.map",
+    "index.html": "/CardPackOpen/index.html",
+    "static/css/main.e08e4210.chunk.css.map": "/CardPackOpen/static/css/main.e08e4210.chunk.css.map",
+    "static/js/2.ae1d3a8f.chunk.js.LICENSE.txt": "/CardPackOpen/static/js/2.ae1d3a8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faf68c95.js",
+    "static/js/2.ae1d3a8f.chunk.js",
+    "static/css/main.e08e4210.chunk.css",
+    "static/js/main.f5c16a71.chunk.js"
+  ]
+}
